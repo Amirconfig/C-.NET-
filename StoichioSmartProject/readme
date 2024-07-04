@@ -1,10 +1,13 @@
-Welcome to StoichioSmart! This project is designed to help students understand the concept of stoichiometry through an interactive and educational game. The game simplifies the learning process by using visual aids such as animations of chemical reactions and relatable examples like making a sandwich.
-Project Overview
-StoichioSmart is an educational tool aimed at making the complex concept of stoichiometry accessible and engaging for students. By using interactive UI elements and visual aids, the game helps students understand the relationship between the weights of reactants and products before, during, and following chemical reactions.
+This project is designed to help students understand the concept of stoichiometry through an interactive and educational game.
+The game simplifies the learning process by using visual aids such as animations of chemical reactions and relatable examples like making a sandwich.
 
-Installation
-Prerequisites
-Windows 10 or higher
-Visual Studio 2019 or later
-Universal Windows Platform (UWP) development tools
+Project Overview
+  StoichioSmart is an educational tool aimed at making the complex concept of stoichiometry accessible and engaging for students. 
+  By using interactive UI elements and visual aids, the game helps students understand the relationship between the weights of 
+  reactants and products before, during, and following chemical reactions.
+
+Installation Prerequisites
+  Windows 10 or higher
+  Visual Studio 2019 or later
+  Universal Windows Platform (UWP) development tools
 
